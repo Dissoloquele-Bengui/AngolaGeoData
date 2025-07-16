@@ -27,7 +27,7 @@ O **AngolaGeoData** resolve esse problema ao oferecer:
 - 🐍 Um script Python de web scraping para coletar informações diretamente de fontes oficiais (ex: `governo.gov.ao`, `iapi.gov.ao`)
 - 📁 Arquivos de saída em formatos amplamente utilizados: `angola_municipios.json` e `angola_municipios.php`
 
-Nosso objetivo é **capacitar a comunidade de desenvolvedores angolanos e internacionais** a criar soluções mais robustas e precisas, economizando tempo e esforço.
+O meu objetivo é **capacitar a comunidade de desenvolvedores angolanos e internacionais** a criar soluções mais robustas e precisas, economizando tempo e esforço.
 
 ---
 
@@ -177,7 +177,7 @@ Este projeto está licenciado sob a **MIT License**. Você pode usar, modificar 
 
 Para sugestões, dúvidas ou suporte, abra uma *issue* neste repositório ou entre em contato via e-mail:
 
-📧 **[seu-email@exemplo.com](mailto:seu-email@exemplo.com)**
+📧 **[dissoloquelebengui67@gmail.com](mailto:dissoloquelebengui67@gmail.com)**
 
 ---
 
