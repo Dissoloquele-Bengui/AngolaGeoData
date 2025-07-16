@@ -85,7 +85,7 @@ cd AngolaGeoData
 pip install -r requirements.txt
 
 # Execute o script de scraping
-python scrape_angola_municipios.py
+python app.py
 ```
 
 ---
